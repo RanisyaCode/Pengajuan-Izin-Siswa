@@ -1,0 +1,65 @@
+/* pastel.css */
+
+/* Background halaman */
+body {
+    background: linear-gradient(135deg, #e3f2fd, #fce4ec);
+    font-family: 'Public Sans', sans-serif;
+  }
+  
+  /* Card */
+  .card {
+    border-radius: 20px;
+    border: none;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+    background: #ffffffee;
+    backdrop-filter: blur(10px);
+  }
+  
+  /* Judul */
+  h4 {
+    color: #5c6bc0; /* pastel indigo */
+    font-weight: 600;
+  }
+  
+  /* Sub text */
+  p {
+    color: #7c8b9e;
+  }
+  
+  /* Input */
+  .form-control {
+    border-radius: 12px;
+    border: 1px solid #d1c4e9;
+    background-color: #fafafa;
+    transition: 0.3s;
+  }
+  
+  .form-control:focus {
+    border-color: #ba68c8; /* pastel ungu */
+    box-shadow: 0 0 0 0.2rem rgba(186, 104, 200, 0.25);
+  }
+  
+  /* Tombol utama */
+  .btn-primary {
+    border-radius: 12px;
+    background: linear-gradient(135deg, #81d4fa, #b39ddb);
+    border: none;
+    font-weight: 600;
+    transition: 0.3s;
+  }
+  
+  .btn-primary:hover {
+    background: linear-gradient(135deg, #4fc3f7, #9575cd);
+  }
+  
+  /* Link balik ke login */
+  a {
+    color: #64b5f6;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #42a5f5;
+    text-decoration: underline;
+  }
+  
