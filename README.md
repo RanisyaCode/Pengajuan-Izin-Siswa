@@ -50,17 +50,21 @@ Gunakan akun berikut untuk mencoba aplikasi:
 
 Alur kerja sistem menggambarkan jalannya proses pengajuan izin dari awal sampai akhir:
 
-1. Siswa Login Ke Sistem  
-   Siswa masuk menggunakan akun masing-masing dan diarahkan ke dashboard untuk melihat ringkasan status izin.
+1. Siswa Login ke Sistem
+Siswa masuk menggunakan akun masing-masing dan diarahkan ke dashboard untuk melihat ringkasan status izin.
 
-2. Siswa Mengajukan Izin  
-   Siswa mengisi form yang berisi nama, kelas, tanggal izin, alasan, serta bukti (foto/PDF). Setelah dikirim, status izin berubah menjadi Menunggu Verifikasi.
+2. Siswa Mengajukan Izin
+Siswa membuka fitur Ajukan Izin Siswa, lalu mengklik tombol +Ajukan Izin untuk mengisi form yang berisi nama, kelas, tanggal izin, alasan, serta bukti (foto/PDF).
+Setelah dikirim, status izin akan berubah menjadi Menunggu.
 
-3. Guru / Admin Melakukan Verifikasi  
-   Guru atau admin memeriksa data yang diajukan melalui menu Data Izin, kemudian memberikan keputusan Disetujui atau Ditolak.
+3. Guru / Admin Melakukan Verifikasi
+Guru atau admin login terlebih dahulu, kemudian memeriksa data yang diajukan melalui menu Data Izin Siswa.
+Setelah diperiksa, guru atau admin memberikan keputusan Disetujui atau Ditolak.
 
-4. Status Izin Diperbarui  
-   Sistem secara otomatis memperbarui status, dan siswa dapat melihat hasilnya melalui dashboard atau halaman data izin.
+4. Status Izin Diperbarui
+Sistem secara otomatis memperbarui status izin sesuai hasil verifikasi.
+Siswa dapat melihat hasilnya melalui Dashboard atau halaman Ajukan Izin Siswa.
 
-5. Pengelolaan Data Oleh Admin  
-   Admin dapat melakukan pencarian, filter data, serta export untuk dokumentasi sekolah. Pengelolaan akun pengguna juga dilakukan pada menu Manajemen User.
+5. Pengelolaan Data oleh Admin
+Admin dapat melakukan pencarian, filter data, serta export data untuk dokumentasi sekolah.
+Selain itu, admin juga dapat mengelola akun pengguna melalui menu Manajemen User.
